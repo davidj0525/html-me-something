@@ -1,0 +1,35 @@
+﻿body {
+}
+
+header ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: orangered;
+}
+
+header li {
+    float: left;
+}
+
+    li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 20px;
+    }
+
+        li a:hover {
+            background-color: orange;
+        }
+
+p li{
+    font-size: larger;
+    padding: 10px;
+}
+
+footer {
+    background-color: orangered;
+    padding: 10px;
+}
