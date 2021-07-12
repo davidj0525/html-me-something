@@ -29,13 +29,20 @@ li a:hover{
 .images{
     height: auto;
     max-width: 100%;
+    margin-top: 15px; 
 }
 
 h1{
     font-style: italic;
 }
 
+p{
+    text-indent:1em;
+    font-size: 1.25em;
+}
+
 footer{
+    margin-top: 8em;
     background-color: orangered;
     padding: 10px;
 }
